@@ -206,6 +206,11 @@ When visualizing, `fg_mask_user` will automatically be preferred over `fg_mask` 
 
 
 ##  Interactive Visualization 🚀
+Our visualizer lets you explore the trajectory field interactively:
+
+![Interactive trajectory field demo](./assets/interactive_monkeys.gif)
+
+
 Fire up the interactive 3D viewer and dive your trajectory fields:
 
 ```bash
@@ -238,6 +243,10 @@ python scripts/view.py --output examples/output/<scene>/output.pt
   * Filter out noisy background / foreground points by confidence
   * Drag to swivel the viewpoint
   * Slide through time and watch the trajectories evolve
+
+## Acknowledgements
+We sincerely thank the authors of the open-source repositories [DUSt3R](https://github.com/naver/dust3r), [Fast3R](https://github.com/facebookresearch/fast3r), [VGGT](https://github.com/facebookresearch/vggt), [MonST3R](https://github.com/Junyi42/monst3r), [Easi3R](https://github.com/Inception3D/Easi3R), [St4RTrack](https://github.com/HavenFeng/St4RTrack?tab=readme-ov-file), [POMATO](https://github.com/wyddmw/POMATO?tab=readme-ov-file), [SpaTrackerV2](https://github.com/henry123-boy/SpaTrackerV2) and [Viser](https://github.com/nerfstudio-project/viser) for their inspiring and high-quality work that greatly contributed to this project.
+
 
 ## License
 
