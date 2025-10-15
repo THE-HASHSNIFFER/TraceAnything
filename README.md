@@ -79,8 +79,6 @@ conda create -n trace_anything python=3.10
 conda activate trace_anything
 
 
-
-
 ### Requirements
 
 * **Python** ≥ 3.10
