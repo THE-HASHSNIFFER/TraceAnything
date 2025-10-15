@@ -70,13 +70,13 @@ This repository provides the official PyTorch implementation for running inferen
 ### Create and activate environment
 
 ```bash
-conda create -n trace_anything python=3.9
+conda create -n trace_anything python=3.10
 conda activate trace_anything
 ```
 
 ### Requirements
 
-* **Python** ≥ 3.9
+* **Python** ≥ 3.10
 * **PyTorch** (install according to your CUDA/CPU setup)
 * **Dependencies**:
 
@@ -86,7 +86,7 @@ conda activate trace_anything
 
 ### Model weights
 
-Download the pretrained model from **[Hugging Face](https://huggingface.co/depth-anything/trace-anything)** and place it at:
+Download the pretrained **[model](https://huggingface.co/depth-anything/trace-anything/resolve/main/trace_anything.pt?download=true)** and place it at:
 
 ```text
 checkpoints/trace_anything.pt
