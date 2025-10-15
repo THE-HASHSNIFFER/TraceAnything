@@ -70,9 +70,16 @@ This repository provides the official PyTorch implementation for running inferen
 ### Create and activate environment
 
 ```bash
+# Clone the repository
+git clone https://github.com/ByteDance-Seed/TraceAnything.git
+cd TraceAnything
+
+# Create and activate environment
 conda create -n trace_anything python=3.10
 conda activate trace_anything
-```
+
+
+
 
 ### Requirements
 
