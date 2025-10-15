@@ -77,7 +77,7 @@ cd TraceAnything
 # Create and activate environment
 conda create -n trace_anything python=3.10
 conda activate trace_anything
-
+```
 
 ### Requirements
 
