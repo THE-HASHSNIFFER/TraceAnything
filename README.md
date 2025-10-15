@@ -181,7 +181,9 @@ Results are saved to:
 
 ## Optional: User-Guided Masks with SAM2
 
-If you prefer **user-guided SAM2 masks** instead of the automatic masks computed from Trace Anything outputs (for visualization), we provide a helper script [`scripts/user_mask.py`](scripts/user_mask.py). This script lets you interactively select points on the first frame of a scene to produce per-frame foreground masks. Run with:
+If you prefer **user-guided SAM2 masks** instead of the automatic masks computed from Trace Anything outputs (for visualization), we provide a helper script [`scripts/user_mask.py`](scripts/user_mask.py). This script lets you interactively select points on the first frame of a scene to produce per-frame foreground masks. 
+
+Install [SAM2](https://github.com/facebookresearch/sam2) and download its checkpoint. Then run with:
 
 ```bash
 python scripts/user_mask.py --scene <output_scene_dir> \
