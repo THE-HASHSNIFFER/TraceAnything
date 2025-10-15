@@ -89,6 +89,12 @@ conda activate trace_anything
   pip install einops omegaconf pillow opencv-python viser imageio matplotlib torchvision
   ```
 
+**Notes**
+
+- **CUDA:** Tested with **CUDA 12.8**.  
+- **GPU Memory:** The provided examples are tested to run on a **single GPU with ≥ 48 GB VRAM**.
+
+
 ### Model weights
 
 Download the pretrained **[model](https://huggingface.co/depth-anything/trace-anything/resolve/main/trace_anything.pt?download=true)** and place it at:
