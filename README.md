@@ -255,3 +255,10 @@ We sincerely thank the authors of the open-source repositories [DUSt3R](https://
 - **Code**: Licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).  
 - **Model weights**: Licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/). These weights are provided for research and non-commercial use only.
 
+## Citation
+
+If you find our repository useful, please consider giving it a star ⭐ and citing our paper in your work:
+
+```bibtex
+xxx
+```
