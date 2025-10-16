@@ -5,7 +5,7 @@
   <a href="https://trace-anything.github.io/">
     <img src="https://img.shields.io/badge/Project%20Page-222222?logo=googlechrome&logoColor=white" alt="Project Page">
   </a>
-  <a href="#">
+  <a href="https://arxiv.org/abs/2510.13802">
     <img src="https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&logoColor=white" alt="arXiv">
   </a>
   <a href="https://youtu.be/PFmwkomheSA?si=3WBNSGNIdqlCTl-1">
@@ -260,5 +260,13 @@ We sincerely thank the authors of the open-source repositories [DUSt3R](https://
 If you find our repository useful, please consider giving it a star ⭐ and citing our paper in your work:
 
 ```bibtex
-xxx
+@misc{liu2025traceanythingrepresentingvideo,
+      title={Trace Anything: Representing Any Video in 4D via Trajectory Fields}, 
+      author={Xinhang Liu and Yuxi Xiao and Donny Y. Chen and Jiashi Feng and Yu-Wing Tai and Chi-Keung Tang and Bingyi Kang},
+      year={2025},
+      eprint={2510.13802},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2510.13802}, 
+}
 ```
