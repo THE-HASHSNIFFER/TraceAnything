@@ -8,7 +8,7 @@
   <a href="https://arxiv.org/abs/2510.13802">
     <img src="https://img.shields.io/badge/arXiv-b31b1b?logo=arxiv&logoColor=white" alt="arXiv">
   </a>
-  <a href="https://youtu.be/PFmwkomheSA?si=3WBNSGNIdqlCTl-1">
+  <a href="https://youtu.be/J6y5l2E6qjA">
     <img src="https://img.shields.io/badge/YouTube-ea3323?logo=youtube&logoColor=white" alt="YouTube Video">
   </a>
   <a href="https://trace-anything.github.io/viser-client/interactive.html">
